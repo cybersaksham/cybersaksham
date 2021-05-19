@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Kumar Bindal</h1>
 <h3 align="center">A passionate software developer from MNIT JAIPUR, India</h3>
 
-- 🌱 I am a full stack web developer (backend node.js, Flask, Django & frontend react.js,Bootstrap), and Android dev
-developement in Flutter.
+- 🌱 I am a python enthusiastic, front-end web developer and Android app developer in Flutter.
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/cybersaksham/](https://github.com/cybersaksham/)
