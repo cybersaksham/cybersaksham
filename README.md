@@ -35,6 +35,10 @@
     <a href="https://wiki.python.org/moin/TkInter" target="_blank"> <img
             src="https://static.javatpoint.com/python/images/tkinter-tutorial.png"
             alt="tkinter" width="40" height="40" />
+    </a>    
+    <a href="https://dart.dev/" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"
+            alt="dart" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
