@@ -79,7 +79,7 @@
     </div>
     <div align="right">
         <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-            <img align="left" src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=3" alt="zumrudu-anka" />
+            <img align="left" src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=4" alt="zumrudu-anka" />
         </a>
     </div>
 </div>
