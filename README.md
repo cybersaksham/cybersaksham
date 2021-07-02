@@ -79,6 +79,10 @@
 ## 
 <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybersaksham&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react&border_color=61dafb&langs_count=13" alt="sudip's wakatime" />
+</a>
+
 
 ##
 <div align="center">
