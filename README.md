@@ -67,20 +67,14 @@
     </a>    
 </p>
 
-[![Saksham Kumar Bindal stats](https://github-readme-stats.vercel.app/api?username=cybersaksham&count_private=true&theme=react&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<a href="(https://git.io/streak-stats" title="Go to Source">
-        <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
-</a>
+<img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
 <div align=center>
     <div align=left>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img width=50% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=20&theme=react&layout=compact" />
-        </a>
+        <img width=50% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=20&theme=react&layout=compact" />
     </div>
     <div align="right">
-        <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-            <img align="left" src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=4" alt="zumrudu-anka" />
-        </a>
+        <img align="left" src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=4" alt="zumrudu-anka" />
     </div>
 </div>
 
