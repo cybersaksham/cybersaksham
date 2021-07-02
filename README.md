@@ -67,7 +67,7 @@
     </a>    
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
 <div align=center>
     <div align=left>
