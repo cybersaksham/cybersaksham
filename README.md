@@ -72,7 +72,11 @@
         <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
 </a>
 <div align=center>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=20&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <div align=left>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=20&theme=react&layout=compact" />
+        </a>
+    </div>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="right" src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=8" alt="zumrudu-anka" />
     </a>
