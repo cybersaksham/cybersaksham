@@ -72,31 +72,30 @@
         <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
 </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=20&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="right" src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=8" alt="zumrudu-anka" />
+    </a>
+</div>
 
 ## 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybersaksham&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<div align=center>
-    <div align="center">
-        <h3 align="center">Connect with me:</h3>
-        <p align="center">
-            <a href="https://www.facebook.com/saksham.bindal.10" target="_blank"><img align="center"
-                    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
-                    width="40" /></a>
-            <a href="https://www.linkedin.com/in/saksham-mnit/" target="_blank"><img align="center"
-                    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
-                    width="40" /></a>
-            <a href="https://www.instagram.com/saksham.1908?igshid=o6xjzzdzcv1q" target="_blank"><img align="center"
-                    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
-                    width="40" /></a>
-            <a href="https://twitter.com/sakshamkumar04" target="_blank"><img align="center"
-                    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30"
-                    width="40" /></a>
-        </p>
-    </div>
-</div>
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=8" alt="zumrudu-anka" />
-    </a>
+##
+<div align="center">
+    <h3 align="center">Connect with me:</h3>
+    <p align="center">
+        <a href="https://www.facebook.com/saksham.bindal.10" target="_blank"><img align="center"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
+                width="40" /></a>
+        <a href="https://www.linkedin.com/in/saksham-mnit/" target="_blank"><img align="center"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
+                width="40" /></a>
+        <a href="https://www.instagram.com/saksham.1908?igshid=o6xjzzdzcv1q" target="_blank"><img align="center"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
+                width="40" /></a>
+        <a href="https://twitter.com/sakshamkumar04" target="_blank"><img align="center"
+                src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30"
+                width="40" /></a>
+    </p>
 </div>
