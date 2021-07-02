@@ -76,19 +76,17 @@
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img width=50% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=20&theme=react&layout=compact" />
         </a>
-    </div>    
+    </div>
+    <div align="center">
+        <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+            <img align="right" src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=3" alt="zumrudu-anka" />
+        </a>
+    </div>
 </div>
 
 ## 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybersaksham&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<div align="center">
-    <div align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-            <img align="right" src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=react&column=4" alt="zumrudu-anka" />
-        </a>
-    </div>
-</div>
 
 ##
 <div align="center">
