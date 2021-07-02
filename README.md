@@ -77,9 +77,6 @@
     <a href="(https://git.io/streak-stats" title="Go to Source">
         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
     </a>
-</div>
-
-<div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=8" alt="zumrudu-anka" />
     </a>
