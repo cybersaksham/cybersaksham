@@ -75,7 +75,7 @@
 
 <div align=center>
     <a href="(https://git.io/streak-stats" title="Go to Source">
-        <img align="center" width=100% src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
+        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
     </a>
 </div>
 
