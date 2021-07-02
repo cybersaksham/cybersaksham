@@ -68,8 +68,8 @@
 </p>
 
 <div align=center>
-    <img width=50% src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
-    <img width=50% align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
+    <img width=40% src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+    <img width=40% align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
 </div>
 <div align=center>
     <div align="left">
