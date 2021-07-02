@@ -77,9 +77,11 @@
           <img width=50% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=20&theme=react&layout=compact" />
         </a>
     </div>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="right" width=50% src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=8" alt="zumrudu-anka" />
-    </a>
+    <div align=right>
+        <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+            <img align="right" src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=8" alt="zumrudu-anka" />
+        </a>
+    </div>
 </div>
 
 ## 
