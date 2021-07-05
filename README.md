@@ -81,6 +81,9 @@
 
 <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react&border_color=61dafb&langs_count=13" alt="saksham's wakatime" />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ##
 <div align="center">
