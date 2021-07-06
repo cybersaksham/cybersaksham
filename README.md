@@ -8,7 +8,7 @@
 [https://github.com/cybersaksham/](https://github.com/cybersaksham/)
 
 - 📫 How to reach me, drop an email at **saksham.bindal2004@gmail.com**
-- My CV website: https://cybersaksham.github.io/Cyber-Saksham/
+- My CV website: https://cybersaksham.herokuapp.com/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
