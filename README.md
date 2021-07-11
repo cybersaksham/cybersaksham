@@ -79,7 +79,7 @@
 ## 
 <img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybersaksham&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
-<img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react&border_color=61dafb&langs_count=13" alt="saksham's wakatime" />
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@cybersaksham/755d0fc5-3ee1-4117-aef7-f05f8dc08e62.png" /></a>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
