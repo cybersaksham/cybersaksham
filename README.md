@@ -72,8 +72,8 @@
     <img width=45% align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
 </div>
 <div align=center>
-    <img width=45% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=20&theme=react&layout=compact" />
-    <img width=45% src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=4" alt="zumrudu-anka" />
+    <img width=45% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=10&theme=react&layout=compact" />
+    <img width=45% src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=3" alt="zumrudu-anka" />
 </div>
 
 ## 
