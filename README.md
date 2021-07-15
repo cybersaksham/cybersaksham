@@ -73,7 +73,7 @@
 </div>
 <div align=center>
     <img width=45% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=10&theme=react&layout=compact" />
-    <img width=45% src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=3" alt="zumrudu-anka" />
+    <img width=45% src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=2&row=1" alt="zumrudu-anka" />
 </div>
 
 ## 
