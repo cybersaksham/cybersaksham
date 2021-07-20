@@ -34,7 +34,7 @@
     <td align="center" width="190">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60">
     </td>
-    <td align='center' width="190">
+    <td align="center" width="190">
         <a href="https://dart.dev/">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="60">
         </a>
