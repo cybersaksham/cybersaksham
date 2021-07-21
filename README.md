@@ -41,7 +41,7 @@
     </td>
 </tr>
 <tr>
-    <td align='center'>
+    <td align="center">
         <a href="https://git-scm.com/">
             <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
         </a>
