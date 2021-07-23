@@ -46,7 +46,7 @@
             <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
         </a>
     </td>
-    <td align='center'>
+    <td align="center">
         <a href="https://dashboard.heroku.com/apps">
             <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
         </a>
