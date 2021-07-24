@@ -83,6 +83,8 @@
     <img width=100% src="https://wakatime.com/share/@cybersaksham/88254df2-cc13-40d7-ac80-a5d5b4911488.png" />
 </div>
 
+![saksham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham)
+
 ##
 <div align="center">
     <h3 align="center">Connect with me:</h3>
