@@ -77,7 +77,7 @@
 </div>
 
 ## 
-<div>
+<div align=center>
     <img align=left alt="Saksham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybersaksham&bg_color=1F222E&theme=dracula" />
 </div>
 
