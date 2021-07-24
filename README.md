@@ -73,7 +73,7 @@
 </div>
 <div align=center>
     <img width=45% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=10&theme=tokyonight&layout=compact" />
-    <img width=45% alt="Saksham's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=tokyonight&langs_count=9">
+    <img width=45% alt="Saksham's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react&langs_count=9">
 </div>
 
 ## 
