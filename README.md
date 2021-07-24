@@ -68,19 +68,18 @@
 </p>
 
 <div align=center>
-    <img width=45% src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
-    <img width=45% align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
+    <img width=45% src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=tokyonight&border_color=61dafb&include_all_commits=true"/>
+    <img width=45% align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=tokyonight&border=61DAFB&fire=DDB80F"/>
 </div>
 <div align=center>
-    <img width=45% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=10&theme=react&layout=compact" />
-    <img width=45% src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&column=2&row=1" alt="zumrudu-anka" />
+    <img width=45% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=10&theme=tokyonight&layout=compact" />
+    <img width=45% alt="Saksham's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=tokyonight&langs_count=9">
 </div>
 
 ## 
-<img align=left alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybersaksham&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-<br>
-
-![saksham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react)
+<div>
+    <img align=left alt="Saksham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybersaksham&bg_color=1F222E&theme=dracula" />
+</div>
 
 ##
 <div align="center">
