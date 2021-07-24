@@ -79,9 +79,6 @@
 ## 
 <img align=left alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybersaksham&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 <br>
-<div align=center>
-    <img width=100% src="https://wakatime.com/share/@cybersaksham/88254df2-cc13-40d7-ac80-a5d5b4911488.png" />
-</div>
 
 ![saksham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham)
 
