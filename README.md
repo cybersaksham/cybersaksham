@@ -15,36 +15,54 @@
 <table width="100">
 <tr>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60"/>
+        <a href="https://www.java.com/en/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60"/>
+        </a>
     </td>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60">
+        <a href="https://www.python.org/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60">
+        </a>
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        <a href="https://www.cplusplus.com/">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        </a>
     </td>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="60">
+        <a href="https://dart.dev/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="60">
+        </a>
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
+        <a href="https://git-scm.com/">
+            <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
+        </a>
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+        <a href="https://dashboard.heroku.com/apps">
+            <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+        </a>
     </td>
     <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        <a href="https://code.visualstudio.com/">
+            <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+        </a>
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+        <a href="https://www.postman.com/">
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+        </a>
     </td>
     <td align='center'>
-        <img src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png" width="60">
+        <a href="https://www.unrealengine.com/en-US/">
+            <img src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png" width="60">
+        </a>
     </td>
 </tr>
 <tr>
@@ -58,10 +76,14 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60"/>
+        <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60"/>
+        </a>
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="60"/>
+        <a href="https://flutter.dev/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="60"/>
+        </a>
     </td>
 </tr>
 </table>
