@@ -10,69 +10,69 @@
 - 📫 How to reach me, drop an email at **saksham.bindal2004@gmail.com**
 - My CV website: https://cybersaksham.herokuapp.com/
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://getbootstrap.com" target="_blank"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" />
-    </a>
-    <a href="https://docs.oracle.com/en/java/javase/14/docs/api/index.html" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-            alt="java" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" />
-    </a>
-    <a href="https://wiki.python.org/moin/TkInter" target="_blank"> <img
-            src="https://static.javatpoint.com/python/images/tkinter-tutorial.png"
-            alt="tkinter" width="40" height="40" />
-    </a>
-    <a href="https://www.pygame.org/news" target="_blank"> <img
-            src="https://static.javatpoint.com/tutorial/pygame/images/python-pygame-tutorial.png"
-            alt="pygame" width="40" height="40" />
-    </a>
-    <a href="https://dart.dev/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"
-            alt="dart" width="40" height="40" />
-    </a>
-    <a href="https://flutter.dev/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
-            alt="flutter" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" />
-    </a>    
-</p>
+<h2 align='center'><i>Languages and Tools</i></h2>
 
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60"/>
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="60">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+    </td>
+    <td align='center'>
+        <img src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png" width="60">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60"/>
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="60"/>
+    </td>
+</tr>
+</table>
+
+##
 <div align=center>
-    <img width=45% src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=tokyonight&border_color=61dafb&include_all_commits=true"/>
-    <img width=45% align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=tokyonight&border=61DAFB&fire=DDB80F"/>
+    <img width=45% src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+    <img width=45% align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
 </div>
 <div align=center>
-    <img width=45% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=10&theme=tokyonight&layout=compact" />
+    <img width=45% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=10&theme=react&layout=compact" />
     <img width=45% alt="Saksham's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react&langs_count=9">
 </div>
 
