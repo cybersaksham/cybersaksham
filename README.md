@@ -11,7 +11,6 @@
 - My CV website: https://cybersaksham.herokuapp.com/
 
 <h2 align='center'><i>Languages and Tools</i></h2>
-
 <table width="100">
 <tr>
     <td align='center' width="190">
@@ -88,7 +87,7 @@
 </tr>
 </table>
 
-##
+<h2 align='center'><i>My Stats</i></h2>
 <div align=center>
     <img width=45% src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
     <img width=45% align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
@@ -98,26 +97,23 @@
     <img width=45% alt="Saksham's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react&langs_count=9">
 </div>
 
-## 
+<h2 align='center'><i>My Contribution</i></h2>
 <div align=center>
-    <img align=left alt="Saksham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybersaksham&bg_color=1F222E&theme=dracula" />
+    <img alt="Saksham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybersaksham&bg_color=1F222E&theme=dracula" />
 </div>
 
-##
+<h2 align='center'><i>Contacts</i></h2>
 <div align="center">
-    <h3 align="center">Connect with me:</h3>
-    <p align="center">
-        <a href="https://www.facebook.com/saksham.bindal.10" target="_blank"><img align="center"
-                src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
-                width="40" /></a>
-        <a href="https://www.linkedin.com/in/saksham-mnit/" target="_blank"><img align="center"
-                src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
-                width="40" /></a>
-        <a href="https://www.instagram.com/saksham.1908?igshid=o6xjzzdzcv1q" target="_blank"><img align="center"
-                src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
-                width="40" /></a>
-        <a href="https://twitter.com/sakshamkumar04" target="_blank"><img align="center"
-                src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30"
-                width="40" /></a>
-    </p>
+    <a href="https://www.facebook.com/saksham.bindal.10" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
+            width="40" /></a>
+    <a href="https://www.linkedin.com/in/saksham-mnit/" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
+            width="40" /></a>
+    <a href="https://www.instagram.com/saksham.1908?igshid=o6xjzzdzcv1q" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
+            width="40" /></a>
+    <a href="https://twitter.com/sakshamkumar04" target="_blank"><img align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30"
+            width="40" /></a>
 </div>
