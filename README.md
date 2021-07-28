@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from MNIT JAIPUR, India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cybersaksham&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 🌱 I am a python enthusiastic, front-end web developer and Android app developer in Flutter.
+- 🌱 I am front-end web developer and Android app developer in Flutter.
 
 - 👨‍💻 All of my projects are available at
 [https://github.com/cybersaksham/](https://github.com/cybersaksham/)
