@@ -2,12 +2,12 @@
 <h3 align="center">I'm a passionate software developer from MNIT JAIPUR, India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cybersaksham&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 🌱 I am front-end web developer, backend developer in flask and Android app developer in Flutter.
+- I am front-end web developer, backend developer in flask and Android app developer in Flutter.
 
-- 👨‍💻 All of my projects are available at
+- All of my projects are available at
 [https://github.com/cybersaksham/](https://github.com/cybersaksham/)
 
-- 📫 How to reach me, drop an email at **saksham.bindal2004@gmail.com**
+- How to reach me, drop an email at **saksham.bindal2004@gmail.com**
 - My CV website: https://cybersaksham.herokuapp.com/
 
 <h2 align='center'><i>Languages and Tools</i></h2>
