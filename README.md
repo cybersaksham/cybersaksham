@@ -10,7 +10,7 @@
 - How to reach me, drop an email at **saksham.bindal2004@gmail.com**
 - My CV website: https://cybersaksham.herokuapp.com/
 
-<h2 align='center'><i>Languages and Tools</i></h2>
+<h2 align='center'><i>Languages & Tools</i></h2>
 <table width="100">
 <tr>
     <td align='center' width="190">
