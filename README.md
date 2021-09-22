@@ -102,7 +102,7 @@
     <img alt="Saksham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybersaksham&bg_color=1F222E&theme=dracula" />
 </div>
 
-<h2 align='center'><i>Contacts</i></h2>
+<h2 align='center'><i>My Contacts</i></h2>
 <div align="center">
     <a href="https://www.facebook.com/saksham.bindal.10" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
