@@ -7,7 +7,7 @@
 - I am python GUI developer, game developer, web scrapper
 
 - All of my projects are available at
-[https://github.com/cybersaksham/](https://github.com/cybersaksham/)
+**[https://github.com/cybersaksham/](https://github.com/cybersaksham/)**
 
 - Email me at **saksham.bindal2004@gmail.com**
 - My resume website: **https://cybersaksham.herokuapp.com/**
