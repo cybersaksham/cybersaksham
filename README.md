@@ -11,7 +11,7 @@
 
 - Email me at **saksham.bindal2004@gmail.com**
 - My resume website: **https://cybersaksham.herokuapp.com/**
-- 3⭐[codechef handle](https://www.codechef.com/users/saksham_mnit)
+- 3⭐**[codechef handle](https://www.codechef.com/users/saksham_mnit)**
 
 <h2 align='center'><i>Languages & Tools</i></h2>
 <table width="100">
