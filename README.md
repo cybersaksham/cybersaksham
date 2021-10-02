@@ -13,7 +13,7 @@
 - My resume website: **https://cybersaksham.herokuapp.com/**
 - 3⭐ **[codechef handle](https://www.codechef.com/users/saksham_mnit)**
 
-<h2 align='center'><i>Languages & Tools</i></h2>
+<h2 align="center"><i>Languages & Tools</i></h2>
 <table width="100">
 <tr>
     <td align='center' width="190">
