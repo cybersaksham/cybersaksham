@@ -16,7 +16,7 @@
 <h2 align="center"><i>Languages & Tools</i></h2>
 <table width="100">
 <tr>
-    <td align='center' width="190">
+    <td align="center" width="190">
         <a href="https://www.java.com/en/">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60"/>
         </a>
