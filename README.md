@@ -75,8 +75,8 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
     <td align='center'>
-        <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60"/>
+        <a href="https://reactjs.org/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60"/>
         </a>
     </td>
     <td align='center'>
