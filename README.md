@@ -21,7 +21,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60"/>
         </a>
     </td>
-    <td align='center' width="190">
+    <td align="center" width="190">
         <a href="https://www.python.org/">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60">
         </a>
