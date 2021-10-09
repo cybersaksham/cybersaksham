@@ -26,7 +26,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60">
         </a>
     </td>
-    <td align='center' width="190">
+    <td align="center" width="190">
         <a href="https://www.cplusplus.com/">
             <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
         </a>
