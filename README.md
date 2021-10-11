@@ -92,12 +92,12 @@
 
 <h2 align='center'><i>My Stats</i></h2>
 <div align=center>
-    <img width=45% src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
-    <img width=45% align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
+    <img width=48.5% src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+    <img width=48.5% align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
 </div>
 <div align=center>
-    <img width=45% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=10&theme=react&layout=compact" />
-    <img width=45% alt="Saksham's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react&langs_count=9">
+    <img width=48.5% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=10&theme=react&layout=compact" />
+    <img width=48.5% alt="Saksham's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react&langs_count=9">
 </div>
 
 <h2 align='center'><i>My Contribution</i></h2>
