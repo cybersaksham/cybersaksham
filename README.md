@@ -10,7 +10,7 @@
 **[https://github.com/cybersaksham/](https://github.com/cybersaksham/)**
 
 - Email me at **saksham.bindal2004@gmail.com**
-- My resume website: **https://cybersaksham.herokuapp.com/**
+- My resume website: **https://www.cybersaksham.co.in/**
 - 3⭐ **[codechef handle](https://www.codechef.com/users/saksham_mnit)**
 
 <h2 align="center"><i>Languages & Tools</i></h2>
