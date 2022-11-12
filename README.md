@@ -7,7 +7,7 @@
 - I am python GUI developer, game developer, web scrapper
 
 - All of my projects are available at
-**[https://github.com/cybersaksham/](https://github.com/cybersaksham/)**
+  **[https://github.com/cybersaksham/](https://github.com/cybersaksham/)**
 
 - Email me at **saksham.bindal2004@gmail.com**
 - My resume website: **https://www.cybersaksham.co.in/**
@@ -92,14 +92,16 @@
 
 <h2 align='center'><i>My Stats</i></h2>
 <div align=center>
+    <img width=48.5% align=left alt="Saksham's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react">
+    <div align=right>
     <img width=48.5% src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
-    <img width=48.5% align="left" src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
-</div>
-<div align=center>
-    <img width=48.5% hwight=100% align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=10&theme=react&layout=compact" />
-    <img width=48.5% alt="Saksham's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react&langs_count=9">
+    <img width=48.5% src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
+    <img width=48.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersaksham&langs_count=12&theme=react&layout=compact" />
+    </div>
 </div>
 
+<br>
+<br>
 <h2 align='center'><i>My Contribution</i></h2>
 <div align=center>
     <img alt="Saksham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybersaksham&bg_color=1F222E&theme=dracula" />
