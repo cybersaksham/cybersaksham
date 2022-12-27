@@ -92,7 +92,7 @@
 
 <h2 align='center'><i>My Stats</i></h2>
 <div align=center>
-    <img width=48.5% align=left alt="Saksham's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react">
+    <img width=48.5% align=left alt="Saksham's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react&langs_count=26">
     <div align=right>
     <img width=48.5% src="https://github-readme-stats.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
     <img width=48.5% src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
@@ -100,11 +100,9 @@
     </div>
 </div>
 
-<br>
-<br>
 <h2 align='center'><i>My Contribution</i></h2>
 <div align=center>
-    <img alt="Saksham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cybersaksham&bg_color=1F222E&theme=dracula" />
+    <img alt="Saksham's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=cybersaksham&theme=github" />
 </div>
 
 <h2 align='center'><i>My Contacts</i></h2>
@@ -112,13 +110,13 @@
     <a href="https://www.facebook.com/saksham.bindal.10" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
             width="40" /></a>
-    <a href="https://www.linkedin.com/in/saksham-mnit/" target="_blank"><img align="center"
+    <a href="https://www.linkedin.com/in/cybersaksham/" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
             width="40" /></a>
     <a href="https://www.instagram.com/saksham.1908?r=nametag" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
             width="40" /></a>
-    <a href="https://twitter.com/sakshamkumar04" target="_blank"><img align="center"
+    <a href="https://twitter.com/cybersaksham" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30"
             width="40" /></a>
 </div>
