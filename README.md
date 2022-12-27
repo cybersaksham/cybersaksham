@@ -2,15 +2,17 @@
 <h3 align="center">I'm a passionate Software Developer from MNIT JAIPUR, India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cybersaksham&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- I am Full-Stack Web Developer in Flask, React, Angular and Android App Developer in Flutter.
+<h4 align="center">-- Passionate, Hustler, Futurist & Entrepreneur --</h4>
 
-- I am python GUI developer, game developer, web scrapper
+- Hello, I am Saksham, currently pursuing my B.Tech in Computer Science from Malaviya National Institute of Technology Jaipur.
+- Dedicated developer with hands-on experience in Full-Stack Web Development, Flutter App Development, and Blockchain technologies. I regularly write code, fix bugs, and explore new techs.
+- In my professional journey, I have closely worked with fellow developers and managed them to work on different modules of the assigned project.
 
 - All of my projects are available at
   **[https://github.com/cybersaksham/](https://github.com/cybersaksham/)**
 
 - Email me at **saksham.bindal2004@gmail.com**
-- My resume website: **https://www.cybersaksham.co.in/**
+- My portfolio website: **https://www.cybersaksham.co.in/**
 
 <h2 align="center"><i>Languages & Tools</i></h2>
 <table width="100">
