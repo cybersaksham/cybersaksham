@@ -108,9 +108,6 @@
 
 <h2 align='center'><i>My Contacts</i></h2>
 <div align="center">
-    <a href="https://www.facebook.com/saksham.bindal.10" target="_blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
-            width="40" /></a>
     <a href="https://www.linkedin.com/in/cybersaksham/" target="_blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
             width="40" /></a>
