@@ -103,7 +103,7 @@
 ## 📊 My Stats
 
 <div align="center">
-    <img width="48%" align="left" alt="Saksham's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react&langs_count=26">
+    <img width="48%" align="left" alt="Saksham's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react&langs_count=30">
     <div align="right">
         <img width=48.5% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
         <img width=48.5% src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
