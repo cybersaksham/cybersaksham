@@ -94,10 +94,12 @@
 
 -->
 
+<!---
 ## 🏆 My Collections
 <div align="center">
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=cybersaksham&theme=onedark&title=-Issues,-Reviews" />
 </div>
+-->
 
 ## 🧑‍💻 My Contribution
 
@@ -108,12 +110,15 @@
 ## 📊 My Stats
 
 <div align="center">
-    <img width="48%" align="left" alt="Saksham's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=cybersaksham&theme=react&langs_count=30">
+    <img width=100% src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
+    <img width=100% alt="Saksham's Wakatime Stats" src="https://wakatime.com/share/@cybersaksham/2b676fe0-c6bb-43a0-859c-6254904bf7ab.svg">
+    <!---
     <div align="right">
         <img width=48.5% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cybersaksham&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
         <img width=48.5% src="http://github-readme-streak-stats.herokuapp.com?user=cybersaksham&theme=react&border=61DAFB&fire=DDB80F"/>
         <img width=48.5% src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cybersaksham&langs_count=12&theme=react&layout=compact" />
     </div>
+    -->
 </div>
 
 ---
